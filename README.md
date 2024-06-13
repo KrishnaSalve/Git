@@ -1,1 +1,1 @@
-## Practising git commands to understand Git structure.
+## Practising git commands to understand Git structure and process.
